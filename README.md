@@ -42,4 +42,4 @@ To build and refine our model, we leverage:
 
 ## License
 
-This project is licensed under the [GNU General Public License v3.0](LICENSE.md) - see the file for details.
+This project is licensed under the [GNU General Public License v3.0](LICENSE) - see the file for details.
